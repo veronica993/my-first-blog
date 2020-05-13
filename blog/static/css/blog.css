@@ -17,7 +17,7 @@ body {
     .page-header h1 a,
     .page-header h1 a:visited,
     .page-header h1 a:active {
-      color: #a10a8d;
+      color: #3d373c;
       font-size: 36pt;
       text-decoration: none;
  }
@@ -28,7 +28,7 @@ body {
         h2,
         h3,
         h4 {
-        font-family: "Lobster", cursive;
+        font-family: "Times New Roman", cursive;
         }
         .date {
         color: #828282;
@@ -43,7 +43,7 @@ body {
         .top-menu,
         .top-menu:hover,
         .top-menu:visited {
-        color: #ddc7c7;
+        color: #c99797;
         float: right;
         font-size: 26pt;
         margin-right: 20px;
@@ -56,7 +56,7 @@ body {
         .post h1 a:visited,
         .post h2 a,
         .post h2 a:visited {
-        color: #84ee92;
+        color: #37dd4d;
         }
         .comment {
             margin: 20px 0px 20px 20px;

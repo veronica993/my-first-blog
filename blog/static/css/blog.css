@@ -58,3 +58,7 @@ body {
         .post h2 a:visited {
         color: #84ee92;
         }
+        .comment {
+            margin: 20px 0px 20px 20px;
+            }
+        

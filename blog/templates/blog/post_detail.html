@@ -41,7 +41,7 @@ comment.approved_comment %}
   <strong>{{ comment.author }}</strong>
   <p>{{ comment.text|linebreaks }}</p>
 </div>
-{% endif %} {% empty %}
+ {% empty %}
 <p>Sin comentarios :(</p>
 {% endfor %}
 {% endblock %}
